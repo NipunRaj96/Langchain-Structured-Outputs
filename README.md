@@ -42,7 +42,7 @@ The repository is divided into:
 
 ## 📌 When to Use What
 
-![When to Use What](when_to_use_what.png) 
+![When to Use What](langchain struc output.png) 
 (A visual comparison of TypedDict, Pydantic, and JSON schema based on use cases.)
 
 ---
